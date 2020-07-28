@@ -23,8 +23,8 @@ public class Templates {
         for (int i = 0; i < a; i++) {
             
         }
+        System.out.println("红红火火恍恍惚惚");
     }
 
-    System.out.print("红红火火恍恍惚惚");
 
 }
