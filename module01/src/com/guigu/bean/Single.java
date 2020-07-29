@@ -12,4 +12,5 @@ public class Single {
         }
         return st;
     }
+    String q = "sdfsdfsdf";
 }
